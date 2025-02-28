@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "telegram-keyboard": "^2.3.5"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "settings",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "I",
+  "license": "ISC"
+}
